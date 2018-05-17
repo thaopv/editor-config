@@ -1,0 +1,22 @@
+{
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "vscode-icons",
+    "trailing-spaces.trimOnSave": true,
+    "files.insertFinalNewline": true,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "editor.renderIndentGuides": false,
+    "workbench.activityBar.visible": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.zoomLevel": 0,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    }
+}
